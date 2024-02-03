@@ -25,5 +25,5 @@ This repository contains my solutions to various Python code challenges. Each ch
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/python-code-challenges.git
+   git clone https://github.com/BlackIG/python-code-challenges.git
 
