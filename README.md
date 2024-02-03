@@ -8,7 +8,7 @@ This repository contains my solutions to various Python code challenges. Each ch
 ## Challenges Overview
 
 1. **ExploreAI code challenge Pandas**
-   - **File:** `challenge1.py`
+   - **File:** `ExploreAI_code_challenge_Pandas.ipynb`
    - **Description:** Integrated Project: Understanding Maji Ndogo's agriculture [Code Challenge].
    - **Solution:** 
 
